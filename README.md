@@ -1,6 +1,6 @@
 # CatchKeeper
 
-A User-Friendly Fisheries Catch Log with Calendar-Based Notes and Sales Tracking
+Say goodbye to paper logs and hello to smart tracking! CatchKeeper is a user-friendly mobile app designed for fishers and vendors to effortlessly record, monitor, and manage their daily catch sales. With built-in reminders, inventory control, and sales visualization, managing your catch has never been this easy—or this smart
 
 ![App Preview](PICTURES%20FOR%20CATCHKEEPER/pagetitle.png)
 
