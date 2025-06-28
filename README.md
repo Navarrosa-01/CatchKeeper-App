@@ -43,6 +43,19 @@ The app includes a **countdown-based notification system**:
 ![Notification](PICTURES%20FOR%20CATCHKEEPER/notification.jpg)
 
 ---
+## 🎥 Video Demo
+
+Watch the full walkthrough of **CatchKeeper** in action:
+👉 [Click here to watch the demo](https://www.youtube.com/watch?v=your-demo-video-link)
+
+---
+## 👥 Members
+- Navarrosa, Angela Tanya G.
+- Cuizon, Lance Kyle Dhem B.
+- Marin, Febrich Faith B.
+- Yang, Ericka Anne T.
+
+---
 
 ## 📘 Course Information
 - **Course**: BSIT  
