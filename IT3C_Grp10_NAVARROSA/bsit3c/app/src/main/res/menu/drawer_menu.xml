@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_logbook"
+            android:title="Logbook" />
+        <item
+            android:id="@+id/nav_tracking"
+            android:title="Sales Monitoring" />
+        <item
+            android:id="@+id/nav_inventory"
+            android:title="Inventory" />
+    </group>
+</menu> 

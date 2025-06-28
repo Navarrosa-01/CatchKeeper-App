@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "384017567762",
+    "project_id": "it3cgrp10navarrosa-98398",
+    "storage_bucket": "it3cgrp10navarrosa-98398.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:384017567762:android:a554b59a952f52c1d1c8cb",
+        "android_client_info": {
+          "package_name": "com.example.it3c_grp10_navarrosa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCreFv1rEH5Xa4yTgx61ryQu51zedYpFw0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

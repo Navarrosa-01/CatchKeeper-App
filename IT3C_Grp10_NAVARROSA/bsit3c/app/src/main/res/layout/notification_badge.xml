@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+
+    <ImageView
+        android:id="@+id/bell_icon"
+        android:layout_width="32dp"
+        android:layout_height="32dp"
+        android:src="@drawable/ic_notifications"
+        android:contentDescription="Notification Bell"/>
+
+    <View
+        android:id="@+id/badge_dot"
+        android:layout_width="10dp"
+        android:layout_height="10dp"
+        android:layout_gravity="end|top"
+        android:background="@android:color/holo_red_light"
+        android:layout_marginEnd="2dp"
+        android:layout_marginTop="2dp"
+        android:visibility="gone"
+        android:scaleType="centerInside"
+        android:backgroundTint="@android:color/holo_red_light"
+        android:clipToOutline="true"
+        android:elevation="4dp"
+        android:shape="oval"/>
+
+</FrameLayout> 
