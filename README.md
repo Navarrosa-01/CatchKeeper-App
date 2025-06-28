@@ -67,8 +67,6 @@ This solution aims to modernize manual logbooks and support sustainable fishing 
 
 ---
 
-## 📷 Screenshots or App Mockup
-You can embed your image like this after uploading it to your GitHub repo:
+## 🔗 GitHub Repository Link
+👉 (https://github.com/Navarrosa-01/CatchKeeper-App.git)
 
-```markdown
-![CatchKeeper Interface](https://github.com/yourusername/yourrepo/blob/main/your-image-file.png)
