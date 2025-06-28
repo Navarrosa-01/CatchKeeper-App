@@ -2,7 +2,7 @@
 
 A User-Friendly Fisheries Catch Log with Calendar-Based Notes and Sales Tracking
 
-![App Preview](PICTURES FOR CATCHKEEPER/feeding_schedule.jpg)
+![App Preview](PICTURES%20FOR%20CATCHKEEPER/feeding_schedule.jpg)
 
 ---
 
